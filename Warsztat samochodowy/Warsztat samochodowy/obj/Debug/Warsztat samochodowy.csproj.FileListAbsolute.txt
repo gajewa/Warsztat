@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\Warsztat samochodowy\Warsztat samochodowy\bin\Debug\Warsztat samochodowy.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Warsztat samochodowy\Warsztat samochodowy\bin\Debug\Warsztat samochodowy.exe
+c:\users\hp\documents\visual studio 2015\Projects\Warsztat samochodowy\Warsztat samochodowy\bin\Debug\Warsztat samochodowy.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Warsztat samochodowy\Warsztat samochodowy\obj\Debug\Warsztat samochodowy.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Warsztat samochodowy\Warsztat samochodowy\obj\Debug\Warsztat samochodowy.exe
+c:\users\hp\documents\visual studio 2015\Projects\Warsztat samochodowy\Warsztat samochodowy\obj\Debug\Warsztat samochodowy.pdb
