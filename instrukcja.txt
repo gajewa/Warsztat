@@ -1,0 +1,13 @@
+Warsztat samochodowy.
+
+Jest to baza pojazdów które s¹ obecnie w naszym warsztacie. Mozemy dodac auto, usluge jakie na nim bedziemy wykonowac oraz przypisac mechanika.
+
+Dziedziczenie jest zrealizowane przez klasê wirtualn¹ Pojazd po której dziedzicz¹ osobowe oraz ciê¿arowe.
+
+ListaAut oraz ListaUslug to klasy zawieraj¹ce kolekcje List (klas aut osobowych/ciezarowych lub uslug) w których sk³adujemy obecne w warsztacie auta oraz uslugi dostepne. Znajduja sie tam funkcje zarowno do dodawania aut/funkcji jak i ich usuwania.
+
+Interfejs zosta³ wprowadzony przy Mechanikach. Mamy prosty wlasny interfejs IMechanik oraz klase Mechanik ktora po nim dziedziczy.
+
+
+Wyj¹tki (try catch) s¹ u¿yte przy wybieraniu opcji z menu glownego w Program.cs (od linijki 23).
+
